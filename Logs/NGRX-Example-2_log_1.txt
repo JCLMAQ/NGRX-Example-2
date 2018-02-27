@@ -1,0 +1,69 @@
+2018-01-26 21:47:16 [wakanda.supervisor] INFO - solution closed
+2018-01-26 21:47:16 [wakanda] INFO - Opens the solution "C:\Users\jcl.maquinay\Wakanda-Lenovo\Examples\NGRX-Example-2\app.waSolution" for running
+2018-01-26 21:47:16 [wakanda.NGRX-Example-2] INFO - Users and groups directory opened
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Company.ID built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Company.country built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Company.manager built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Country.ID built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Employee.ID built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Employee.company built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on Employee.manager built in 0 ms
+2018-01-26 21:47:16 [IndexManager] INFO - Index  on User.ID built in 0 ms
+2018-01-26 21:47:16 [wakanda.NGRX-Example-2.backend] INFO - Datastore opened
+2018-01-26 21:47:16 [wakanda.NGRX-Example-2.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2018-01-26 21:47:16 [wakanda.NGRX-Example-2.backend] INFO - "backend" project opened
+2018-01-26 21:47:17 [wakanda.NGRX-Example-2.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2018-01-26 21:47:17 [wakanda.NGRX-Example-2.ServerAdmin] INFO - "ServerAdmin" project opened
+2018-01-26 21:47:17 [wakanda.NGRX-Example-2] INFO - "NGRX-Example-2" solution opened
+2018-01-26 21:47:17 [wakanda] INFO - Starts "NGRX-Example-2" solution
+2018-01-26 21:47:17 [wakanda.NGRX-Example-2.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2018-01-26 21:47:18 [wakanda.NGRX-Example-2.ServerAdmin] INFO - HTTP Server started
+2018-01-26 21:47:18 [wakanda.NGRX-Example-2.ServerAdmin] INFO - "ServerAdmin" project started
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.backend] INFO - HTTP Server started
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.backend] INFO - "backend" project started
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.ServerAdmin] INFO - Executes the bootstrap file(s)
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.ServerAdmin] INFO - Bootstrap file(s) executed
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.backend] INFO - Executes the bootstrap file(s)
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.backend] INFO -  ::::: Creating  2000  Employees  Companies...
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2.backend] INFO - Bootstrap file(s) executed
+2018-01-26 21:47:19 [wakanda.NGRX-Example-2] INFO - "NGRX-Example-2" solution started
+2018-01-26 21:47:19 [wakanda] INFO - "NGRX-Example-2" solution has been successfully opened for running (duration: 2792 ms)
+2018-01-26 21:47:19 [IndexManager] INFO - Index  on User.ID built in 7 ms
+2018-01-26 21:47:19 [wakanda.supervisor] INFO - solution opened
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Employee.ID built in 0 ms
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Employee.company built in 0 ms
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Employee.manager built in 0 ms
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Company.ID built in 0 ms
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Company.country built in 1 ms
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Company.manager built in 0 ms
+2018-01-26 21:47:21 [IndexManager] INFO - Index  on Country.ID built in 1 ms
+2018-01-26 21:47:31 [wakanda.NGRX-Example-2.backend] INFO -  End creating Employees. Employees:  2072 , Companies:  82 , Country:  11  ::::: 
+2018-01-26 21:47:31 [wakanda.NGRX-Example-2.backend] INFO - Warming the cache..........
+2018-01-26 21:47:31 [wakanda.NGRX-Example-2.backend] INFO - Warming the cache..........done
+2018-01-26 21:47:31 [wakanda.NGRX-Example-2.backend] INFO - close the initApp shared worker
+2018-02-27 16:27:31 [wakanda.supervisor] INFO - solution closed
+2018-02-27 16:27:31 [wakanda] INFO - Opens the solution "C:\Users\jcl.maquinay\Wakanda-Lenovo\Examples\NGRX-Example-2\app.waSolution" for running
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2] INFO - Users and groups directory opened
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.backend] INFO - Datastore opened
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.backend] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8081,"securedPort":443,"mode":"http"}
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.backend] INFO - "backend" project opened
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] INFO - Publication settings loaded: {"hostName":"localhost","listen":"any","port":8080,"securedPort":4433,"mode":"http"}
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] INFO - "ServerAdmin" project opened
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2] INFO - "NGRX-Example-2" solution opened
+2018-02-27 16:27:32 [wakanda] INFO - Starts "NGRX-Example-2" solution
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] WARN - Failed to set the required key and certificate for secure connections
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] INFO - HTTP Server started
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] INFO - "ServerAdmin" project started
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.backend] INFO - HTTP Server started
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.backend] INFO - "backend" project started
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] INFO - Executes the bootstrap file(s)
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.ServerAdmin] INFO - Bootstrap file(s) executed
+2018-02-27 16:27:32 [wakanda.NGRX-Example-2.backend] INFO - Executes the bootstrap file(s)
+2018-02-27 16:27:33 [wakanda.NGRX-Example-2.backend] INFO - Warming the cache..........
+2018-02-27 16:27:33 [wakanda.NGRX-Example-2.backend] INFO - Warming the cache..........done
+2018-02-27 16:27:33 [wakanda.NGRX-Example-2.backend] INFO - close the initApp shared worker
+2018-02-27 16:27:33 [IndexManager] INFO - Index  on User.ID built in 1 ms
+2018-02-27 16:27:33 [wakanda.NGRX-Example-2.backend] INFO - Bootstrap file(s) executed
+2018-02-27 16:27:33 [wakanda.NGRX-Example-2] INFO - "NGRX-Example-2" solution started
+2018-02-27 16:27:33 [wakanda] INFO - "NGRX-Example-2" solution has been successfully opened for running (duration: 1243 ms)
+2018-02-27 16:27:33 [wakanda.supervisor] INFO - solution opened

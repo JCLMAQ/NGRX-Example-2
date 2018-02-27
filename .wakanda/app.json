@@ -1,0 +1,17 @@
+{
+  "name": "NGRX-Example-2",
+  "components": [
+    {
+      "type": "backend",
+      "template": "EmployeeCompanyLogin",
+      "name": "backend",
+      "path": "./backend"
+    },
+        {
+      "type": "web",
+      "template": "ngrx-Wakanda-Employee",
+      "name": "web",
+      "path": "./web"
+    }
+    ]
+}
